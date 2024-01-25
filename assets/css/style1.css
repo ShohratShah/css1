@@ -1,0 +1,48 @@
+*{
+    background-color: skyblue;
+}
+
+.sarah {
+  color: rgb(95, 64, 64);
+}
+
+.home{
+    width: 100px;
+    height: 10px;
+    color: white;
+    background-color: darkgreen;
+}
+
+.fun{
+    width: 100px;
+    height: 10px;
+    color: white;
+    background-color: darkgreen;
+}
+
+#photo{
+    width: 200px;
+    height: 100px;
+
+}
+
+.text{
+    text-align: center;
+    font-size: 20px;
+}
+
+a:hover{
+    background-color: red;
+}
+
+.moose{
+    font-size: 18px;
+}
+
+.index{
+    color: black;
+}
+
+.index:hover{
+    background-color:lightgreen;
+}

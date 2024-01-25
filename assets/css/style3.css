@@ -1,0 +1,37 @@
+.html {
+  background-color: yellow;
+}
+
+.purple {
+  border: 5px solid purple;
+  color: red;
+  font-weight: bold;
+}
+
+div .blue {
+  background-color: skyblue;
+}
+
+div .green1 {
+  background-color: green;
+}
+
+div #red {
+  color: red;
+}
+
+div .green2 {
+  background-color: green;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+.index {
+  color: black;
+}
+
+.index:hover {
+  background-color: lightgreen;
+}

@@ -1,0 +1,36 @@
+*{
+    background-color:antiquewhite;
+}
+
+.brown{
+    background-color:brown ;
+}
+
+ul .orange{
+    background-color: orange;
+}
+
+ol .yellow{
+    background-color: yellow;
+}
+
+.red{
+    color: red;
+}
+
+section .red4{
+    color: black;
+}
+
+.red:hover{
+    background-color: darksalmon;
+    color: blue;
+}
+
+.index{
+    color: black;
+}
+
+.index:hover{
+    background-color:lightgreen;
+}
